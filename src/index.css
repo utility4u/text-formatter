@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#wrapper {
+  width: 1000px;
+  font-size: 16px;
+  font-family: Arial;
+}
